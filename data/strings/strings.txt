@@ -574,7 +574,7 @@
     el = Αναζήτηση χάρτη
     es = Buscar en el mapa
     et = Otsi kaardilt
-    eu = Bilatu mapan
+    eu = Bilatu mapa
     fa = جست‌وجوی نقشه
     fi = Hae kartalta
     fr = Rechercher sur la carte
@@ -9331,7 +9331,11 @@
     el = Ιστορικό
     es = Historial
     et = Ajalugu
+<<<<<<< HEAD
+    eu = Historia
+=======
     eu = Historiala
+>>>>>>> b9ef4db79b40108ee8cebb4602376c9b7bcc71a1
     fa = تاریخچه
     fi = Historia
     fr = Historique
