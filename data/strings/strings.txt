@@ -1661,7 +1661,7 @@
     el = Προσθέστε νέο σύνολο
     es = Agregar un grupo nuevo
     et = Lisa uus loetelu
-    eu = Gehitu zerrenda berri bat
+    eu = Gehitu zerrenda berria
     fa = اضافه کردن مجموعه جدید
     fi = Lisää uusi valikoima
     fr = Ajouter un nouveau groupe
@@ -1703,7 +1703,7 @@
     el = Χρώμα αγαπημένου
     es = Color del marcador
     et = Järjehoidja värv
-    eu = Markagailuaren kolorea
+    eu = Markatzailearen kolorea
     fa = رنگ نشانه
     fi = Kirjanmerkin väri
     fr = Couleur du signet
@@ -1744,7 +1744,7 @@
     el = Όνομα συνόλου αγαπημένων
     es = Nombre del grupo de marcadores
     et = Järjehoidjate loetelu nimi
-    eu = Markagailuen zerrendaren izena
+    eu = Markatzaile eta ibilbideen zerrendaren izena
     fi = Kirjanmerkkivalikoiman nimi
     fr = Nom du groupe de signets
     he = שם רשימת האתרים
@@ -1783,7 +1783,7 @@
     el = Σύνολα αγαπημένων
     es = Grupos de marcadores
     et = Järjehoidjate loetelud
-    eu = Markagailuen zerrenda
+    eu = Markatzaile eta ibilbideen zerrenda
     fi = Kirjanmerkkivalikoimat
     fr = Groupes de signets
     he = רשימות אתרים
@@ -1823,7 +1823,7 @@
     el = Αγαπημένα
     es = Marcadores
     et = Järjehoidjad
-    eu = Markagailuak
+    eu = Markatzaileak
     fa = نشانه‌ها
     fi = Kirjanmerkit
     fr = Signets
@@ -3427,7 +3427,7 @@
     el = Κοινοποιήθηκαν αγαπημένα Organic Maps με σας
     es = Marcadores de Organic Maps compartidos con usted
     et = Organic Maps järjehoidjaid jagati Sinuga
-    eu = Organic Maps markagailuak zurekin partekatu dira
+    eu = Organic Maps markagatzaileak zurekin partekatu dira
     fi = Jaetut Organic Maps-kirjanmerkit
     fr = Signets Organic Maps partagés
     he = משותפתOrganic Maps רשימת אתרי
@@ -3462,7 +3462,7 @@
     de = Hallo!\n\nIm Anhang sind meine Lesezeichen der Organic Maps App. Sie können sie mit Organic Maps öffnen. Wenn Sie die App nicht installiert haben, können Sie sie von https://omaps.app/get?kmz für iOS oder Android herunterladen.\n\nViel Spaß beim Reisen mit Organic Maps!
     es = Hola!\n\Adjunto mis marcadores de la aplicación Organic Maps. Por favor, ábralos si tiene instalado Organic Maps. O, si no lo tiene, descargue la aplicación para su dispositivo iOS o Android siguiendo este enlace: https://omaps.app/get?kmz\n¡Disfrute viajando con Organic Maps!
     et = Tere!\nManuses on minu järjehoidjad rakendusest Organic Maps. Palun ava need kui Sul on Organic Maps paigaldatud. Või kui ei ole, lae rakendus alla oma iOS või Android seadmesse, järgides seda linki: https:omaps.appget?kmz\n\nNaudi reisimist Organic Maps-iga!
-    eu = Kaixo!\nNire markagailuak Organic Maps aplikazioan erantsi ditut. Mesedez, ireki itzazu Organic Maps instalatuta baduzu. Edo, ez baduzu, deskargatu aplikazioa zure iOS edo Android gailurako esteka hau jarraituz: https://omaps.app/get?kmz\n\nGozatu bidaiatzen Organic Maps-ekin!
+    eu = Kaixo!\nNire markatzaileak Organic Maps aplikazioan erantsi ditut. Mesedez, ireki itzazu Organic Maps instalatuta baduzu. Edo, ez baduzu, deskargatu aplikazioa zure iOS edo Android gailurako esteka hau jarraituz: https://omaps.app/get?kmz\n\nGozatu bidaiatzen Organic Maps-ekin!
     fr = Bonjour !\n\nVous trouverez ci-joint mes signets de l'appli Organic Maps. Veuillez les ouvrir si vous avez installé Organic Maps. Si vous ne l'avez pas, téléchargez l'application pour votre appareil iOS ou Android en suivant ce lien : https://omaps.app/get?kmz\n\nBon voyage avec Organic Maps!
     it = Ciao!\n\nIn allegato ci sono i miei luoghi preferiti. Aprili se hai installato Organic Maps. Oppure, se non ce l'hai, scarica l'app per iOS o Android seguendo questo link: https://omaps.app/\n\nDivertiti a viaggiare con Organic Maps!
     mr = नमस्कार!\n\nOrganic Maps ऍप मधील माझे खूणपत्रे संलग्न केले आहेत. तुम्ही Organic Maps इन्स्टॉल केले असल्यास हे खूणपत्रे उघडा. इन्स्टॉल केले नसल्यास, पुढील दुव्यावर जाऊन तुमच्या iOS किंवा अँड्रॉइड उपकरणावर हे डाउनलोड करा: https://omaps.app/get?kmz\n\nOrganic Maps सह प्रवासाचा आनंद घ्या!
@@ -3490,7 +3490,7 @@
     el = Φόρτωση αγαπημένων
     es = Cargando marcadores
     et = Järjehoidjate laadimine
-    eu = Markagailuak kargatzen
+    eu = Markatzaileak kargatzen
     fa = در حال بارگیری نشانه‌ها
     fi = Ladataan kirjanmerkkejä
     fr = Chargement des signets
@@ -3531,7 +3531,7 @@
     el = Τα αγαπημένα φορτώθηκαν με επιτυχία! Μπορείτε να τα βρείτε στο χάρτη ή στην οθόνη Διαχείριση αγαπημένων.
     es = ¡Los marcadores se han cargado con éxito! Puede encontrarlos en el mapa o en la pantalla de Gestión de marcadores.
     et = Järjehoidjad edukalt laetud! Leiad need kaardil või järjehoidjate halduri ekraanil.
-    eu = Markagailuak behar bezala kargatu dira! Mapan edo markagailuak kudeatzeko pantailan aurki ditzakezu.
+    eu = Markatzaileak behar bezala kargatu dira! Mapan edo markatzaileak kudeatzeko pantailan aurki ditzakezu.
     fa = نشانه‌ها با موفقیت بارگذاری شد!شما می توانید آنها را در نقشه یا بخش مدیریت نشانه‌ها بیابید
     fi = Kirjanmerkkien lataaminen onnistui! Löydät ne joko kartalta tai kirjanmerkkien hallinnasta.
     fr = Les signets ont été chargés avec succès ! Vous pouvez les trouver sur la carte ou sur l'écran du Gestionnaire de signets.
@@ -3572,7 +3572,7 @@
     el = Η μεταφόρτωση των αγαπημένων απέτυχε. Το αρχείο μπορεί να είναι κατεστραμμένο ή ελαττωματικό.
     es = La carga de marcadores ha fallado. El archivo puede estar corrupto o ser defectuoso.
     et = Järjehoidjate laadimine ebaõnnestus. Fail võib olla vigane.
-    eu = Ezin izan dira markagailuak kargatu. Fitxategia hondatuta edo akastuna izan daiteke.
+    eu = Ezin izan dira markatzaileak kargatu. Fitxategia hondatuta edo akastuna izan daiteke.
     fa = بارگذاری نشانه‌ها با شکست مواجه شد.ممکن است فایل آسیب دیده یا معیوب باشد
     fi = Kirjanmerkkien lähetys epäonnistui. Tiedosto saattaa olla vioittunut.
     fr = Échec lors du chargement des signets. Le fichier peut être corrompu ou défectueux.
@@ -3816,7 +3816,7 @@
     el = Έλεγξε τις τοποθεσίες που έχω καρφιτσώσει στο Organic Maps!
     es = ¡Mira mi marcador en el mapa de Organic Maps!
     et = Hei, vaata minu asukoha märget Organic Maps kaardil!
-    eu = Begiratu nire markagailua Organic Maps mapan!
+    eu = Begiratu nire markatzailea Organic Maps mapan!
     fi = Hei, katso merkintäni Organic Maps-kartalla
     fr = Hé, regardez mon signet sur la carte Organic Maps !
     he = הי, בדוק את הסיכה שלי במפה של Organic Maps!
@@ -6961,7 +6961,7 @@
     el = αγαπημένο
     es = marcador
     et = järjehoidja
-    eu = Markagailua
+    eu = Markatzailea
     fa = نشانه‌ها
     fi = kirjanmerkki
     fr = signet
@@ -14994,7 +14994,7 @@
     el = Επεξεργασία αγαπημένου
     es = Editar marcador
     et = Muuda järjehoidjat
-    eu = Editatu markagailua
+    eu = Editatu markatzailea
     fa = ویرایش نشانه‌ها
     fi = Muokkaa kirjanmerkkiä
     fr = Éditer le signet
@@ -15033,7 +15033,7 @@
     el = Όνομα αγαπημένου
     es = Nombre del marcador
     et = Järjehoidja nimi
-    eu = Markagailuaren izena
+    eu = Markatzailearen izena
     fa = نام نشانه‌ها
     fi = Kirjanmerkin nimi
     fr = Nom du signet
@@ -15109,7 +15109,7 @@
     el = Διαγραφή αγαπημένου
     es = Eliminar marcador
     et = Kustuta järjehoidja
-    eu = Ezabatu markagailua
+    eu = Ezabatu markatzailea
     fa = حذف نشانه
     fi = Poista kirjanmerkki
     fr = Supprimer le signet
@@ -17945,7 +17945,7 @@
     es-MX = %d marcadores
     et:one = %d järjehoidja
     et:other = %d järjehoidjat
-    eu = %d markagailu
+    eu = %d markatzaile
     fa:one = %d نشانه
     fa:other = %d نشانه‌ها
     fi = %d kirjanmerkkiä
@@ -18036,7 +18036,7 @@
     de = Lesezeichen importieren
     es = Importar marcadores
     et = Impordi järjehoidjad
-    eu = Inportatu markagailuak
+    eu = Inportatu markatzaile eta ibilbideak
     fi = Tuo kirjamerkit
     fr = Importer des signets
     hu = Könyvjelzők importálása
@@ -18312,7 +18312,7 @@
     es = No se puede compartir una lista vacía
     es-MX = No se puede compartir una lista vacía
     et = Tühja loetelu ei saa jagada
-    eu = Ezin da partekatu zerrenda hutsik
+    eu = Ezin da hutsik dagoen zerrenda
     fa = یک لیست خالی را نمی توان به اشتراک گذاشت
     fi = Tyhjää listaa ei voi jakaa
     fr = Impossible de partager une liste vide
@@ -19707,7 +19707,7 @@
     es = Para agregar un marcador, toque un lugar en el mapa y después toque el icono de la estrella
     es-MX = Para añadir un marcador, toque un lugar en el mapa y después toque el ícono de estrella
     et = Järjehoidja lisamiseks puuduta kohta kaardil ja seejärel puuduta tähekese ikooni
-    eu = Markagailu bat gehitzeko, ukitu mapako toki bat eta, ondoren, ukitu izarraren ikonoa
+    eu = Markatzaile bat gehitzeko, ukitu mapako toki bat eta, ondoren, ukitu izarraren ikonoa
     fa = برای افزودن یک نشانه، روی یک مکان روی نقشه ضربه بزنید و سپس روی نماد ستاره ضربه بزنید
     fi = Lisätäksesi kirjanmerkin, paina kartasta ja sitten paina tähden kuvaa
     fr = Pour ajouter un signet, appuyez sur un lieu sur la carte, puis appuyez sur l'icône étoile
@@ -22728,7 +22728,7 @@
     es = Ordenar marcadores
     es-MX = Ordenar marcadores
     et = Sorteeri järjehoidjad
-    eu = Ordenatu markagailuak
+    eu = Ordenatu markatzaileak
     fa = مرتب سازی نشانه‌ها
     fi = Järjestä kirjanmerkit
     fr = Trier les signets
